@@ -1,4 +1,13 @@
-## Me chamo João Lucas Naves, procuro sempre novas formas de evoluir utilizando a tecnologia.
+<p align="center">
+👋 Heyyy! I'm João Lucas, a brazilian programmer.
+</p>
+
+## **🐉 About me:**
+* João Lucas Naves, 23 Years
+* Back End Developer
+* Currently studying Automatized tests and back-end.
+* 1 Years, 2 Months since I started programming
+* 
 <div align="center">
   <a href="https://github.com/navesjl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navesjl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
