@@ -7,7 +7,7 @@
 * Back End Developer
 * Currently studying Automatized tests and back-end.
 * 1 Years, 2 Months since I started programming
-* 
+
 <div align="center">
   <a href="https://github.com/navesjl">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=navesjl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
