@@ -1,9 +1,9 @@
 <p align="center">
-👋 Heyyy! I'm João Lucas Naves.
+👋 Oláa! Me chamo João Lucas Naves.
 </p>
 
 ## **🐉 About me:**
-* João Lucas Naves, 23 Years
+* João Lucas Naves, 23 Anos.
 * Desenvolvedor FullStack
 * Atualmente estudando testes automatizados e back-end
 * 1 Ano, 2 Meses desde que comecei a estudar programação.
