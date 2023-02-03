@@ -1,12 +1,12 @@
 <p align="center">
-👋 Heyyy! I'm João Lucas, a brazilian programmer.
+👋 Heyyy! I'm João Lucas Naves.
 </p>
 
 ## **🐉 About me:**
 * João Lucas Naves, 23 Years
-* Back End Developer
-* Currently studying Automatized tests and back-end.
-* 1 Years, 2 Months since I started programming
+* Desenvolvedor FullStack
+* Atualmente estudando testes automatizados e back-end
+* 1 Ano, 2 Meses desde que comecei a estudar programação.
 
 <div align="center">
   <a href="https://github.com/navesjl">
