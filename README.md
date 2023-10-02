@@ -4,9 +4,10 @@
 
 ## **🐉 Sobre mim:**
 * João Lucas Naves, 23 Anos.
-* Desenvolvedor FullStack
+* Desenvolvedor FullStack Jr
+* Analista de Sistemas/Negócios PL-SR
 * Atualmente estudando testes automatizados e back-end
-* 1 Ano, 2 Meses desde que comecei a estudar programação.
+* 2 Ano, 2 Meses desde que comecei a estudar programação.
 
 <div align="center">
   <a href="https://github.com/navesjl">
